@@ -1,0 +1,28 @@
+{
+  "title": "Zoom Car Clone",
+  "projectImg": "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/newZoomCar-main.jpg?raw=true",
+  "aboutText": "Cloned some parts of Zoom-car website which is an Indian car sharing platform, headquartered in Bangalore. founded in 2013 by David Back and Greg Moran.",
+  "screenShots": [
+    "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-1.png?raw=true",
+    "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-2.png?raw=true",
+    "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-3.png?raw=true",
+    "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-4.png?raw=true",
+    "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-5.png?raw=true",
+    "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-6.png?raw=true",
+    "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-7.png?raw=true"
+  ],
+  "techStacks": [
+    "React",
+    "JavaScript",
+    "CSS",
+    "Styled Components",
+    "Chakra UI",
+    "Firebase",
+    "Framer Motion",
+    "Vercel"
+  ],
+  "links": {
+    "github": "https://github.com/ShrikantJawla/fabulous-vest-203",
+    "deploy_link": "https://zoomcar-clone-five.vercel.app/"
+  }
+}

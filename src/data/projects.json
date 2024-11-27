@@ -1,0 +1,139 @@
+[
+  {
+    "title": "SurveyMonkey clone",
+    "projectImg": "https://github.com/ShrikantJawla/Images/blob/main/Survey%20Monkey-main.jpg?raw=true",
+    "aboutText": "Clone of a well-known website that let users to create, send andanalyze sophisticated survey template",
+    "screenShots": [
+      "https://github.com/ShrikantJawla/Images/blob/main/surveyMonkey-1.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/surveyMonkey-2.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/surveyMonkey-3.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/surveyMonkey-4.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/surveyMonkey-5.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/surveyMonkey-6.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/surveyMonkey-7.png?raw=true"
+    ],
+    "techStacks": ["HTML", "JavaScript", "CSS", "Netlify"],
+    "links": {
+      "github": "https://github.com/ShrikantJawla/slow-argument-2201",
+      "deploy_link": "https://slow-argument-2201.netlify.app/"
+    }
+  },
+  {
+    "title": "The Cosmetica",
+    "projectImg": "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-main.png?raw=true",
+    "aboutText": "Its an ecommerce website where you can buy all type of body products. User can use it on their any type of devices.",
+    "screenShots": [
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-1.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-2.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-3.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-4.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-5.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-6.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-7.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-admin-1.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-admin-2.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-admin-3.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-admin-4.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/cosmetica/cosmetica-admin-5.png?raw=true"
+    ],
+    "techStacks": [
+      "Next JS",
+      "JavaScript",
+      "CSS",
+      "Chakra UI",
+      "Mongo DB",
+      "Next JS API",
+      "Vercel"
+    ],
+    "links": {
+      "github": "https://github.com/Shivam-Moudgil/Cosmetica",
+      "deploy_link": "https://cosmetica.vercel.app/"
+    }
+  },
+  {
+    "title": "Zoom Car Clone",
+    "projectImg": "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/newZoomCar-main.jpg?raw=true",
+    "aboutText": "Cloned some parts of Zoom-car website which is an Indian car sharing platform, headquartered in Bangalore. founded in 2013 by David Back and Greg Moran.",
+    "screenShots": [
+      "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-1.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-2.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-3.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-4.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-5.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-6.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/zoomcar/zoomcar-7.png?raw=true"
+    ],
+    "techStacks": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Styled Components",
+      "Chakra UI",
+      "Firebase",
+      "Framer Motion",
+      "Vercel"
+    ],
+    "links": {
+      "github": "https://github.com/ShrikantJawla/fabulous-vest-203",
+      "deploy_link": "https://zoomcar-clone-five.vercel.app/"
+    }
+  },
+  {
+    "title": "Nutrimeter",
+    "projectImg": "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-main.png?raw=true",
+    "aboutText": "Nutrimeter is a one stop solution for all health related information and to track your daily calories so It helps you to focus on your nutrition as a whole. it's a dynamic and responsive, full stack website built with react js, mongodb, express and nodejs.",
+    "screenShots": [
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-1.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-2.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-3.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-4.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-5.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-6.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-7.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-8.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-9.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-10.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Nutrimeter/nutrimeter-11.png?raw=true"
+    ],
+    "techStacks": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Chakra UI",
+      "Styled-Components",
+      "Mongo DB",
+      "Node JS",
+      "Express JS",
+      "Vercel"
+    ],
+    "links": {
+      "github": "https://github.com/ShrikantJawla/nutrimeter",
+      "deploy_link": "https://nutrimeter.vercel.app/"
+    }
+  },
+  {
+    "title": "OpenAskAI",
+    "projectImg": "https://github.com/ShrikantJawla/Images/blob/main/Open%20AI/0.png?raw=true",
+    "aboutText": "This is a small, completely responsive app I built using OpenAI, tried to imitate small part of ChatGPT.",
+    "screenShots": [
+      "https://github.com/ShrikantJawla/Images/blob/main/Open%20AI/0.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Open%20AI/1.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Open%20AI/2.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Open%20AI/4.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Open%20AI/3.png?raw=true",
+      "https://github.com/ShrikantJawla/Images/blob/main/Open%20AI/5.png?raw=true"
+    ],
+    "techStacks": [
+      "NextJs",
+      "TypeScript",
+      "NextJs API",
+      "Tailwindcss",
+      "Mongo DB",
+      "Vercel"
+    ],
+    "links": {
+      "github": "https://github.com/ShrikantJawla/openaskai",
+      "deploy_link": "https://openaskai.vercel.app"
+    }
+    }
+]
