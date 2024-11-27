@@ -68,7 +68,7 @@ const HomeSection = (props: Props) => {
         >
           <img
             className="rounded-full h-[60%] object-cover xl:h-[70%] opacity-80 border-[9px] border-blue-300"
-            src="https://github.com/ShrikantJawla/Images/blob/main/My%20photo-2.JPG?raw=true"
+            src=""
             alt="me"
           />
         </motion.div>

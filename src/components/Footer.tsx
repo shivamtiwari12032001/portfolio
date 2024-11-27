@@ -16,21 +16,21 @@ const Footer = () => {
         <p className="text-white w-[40%] ">Links</p>
         <div className="w-[40%] h-fit py-2 flex  gap-5 justify-start items-center">
           <a
-            href="https://github.com/ShrikantJawla"
+            href="https://github.com/shivamtiwari12032001"
             target={'_blank'}
             rel="noreferrer"
           >
             <AiFillGithub className="text-[22px] text-white cursor-pointer hover:scale-125 transition duration-700 ease-in-out" />
           </a>
           <a
-            href="https://www.linkedin.com/in/shrikant-jawla"
+            href="https://www.linkedin.com/in/shivamtiwari12032001"
             target={'_blank'}
             rel="noreferrer"
           >
             <AiFillLinkedin className="text-[22px] text-white cursor-pointer hover:scale-125 transition duration-700 ease-in-out" />
           </a>
           <a
-            href="https://leetcode.com/shrikantjawla"
+            href="https://leetcode.com/u/shivamtiwari12032001"
             target={'_blank'}
             rel="noreferrer"
           >
@@ -49,8 +49,8 @@ const Footer = () => {
               src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png"
               alt="wattsapp icon"
             />
-            <a href="tel:+919045946661" className="text-white text-[12px]">
-              +91-9045946661
+            <a href="tel:+916201715091" className="text-white text-[12px]">
+              +91-6201715091
             </a>
           </div>
           <div className="w-full h-[20px] flex justify-start items-center gap-3">
@@ -63,7 +63,7 @@ const Footer = () => {
               href="mailto:shrikantjawla@gmail.com"
               className="text-white text-[12px]"
             >
-              shrikantjawla@gmail.com
+              shivamtiwari12032001@gmail.com
             </a>
           </div>
         </div>

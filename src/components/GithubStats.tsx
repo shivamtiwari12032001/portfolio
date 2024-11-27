@@ -21,19 +21,19 @@ const GithubStats = () => {
       <div className="w-full flex justify-center">
         <img
           className="w-[95%] md:w-[80%] lg:w-[50%]"
-          src="https://github-readme-streak-stats.herokuapp.com?user=ShrikantJawla&hide_border=true&border_radius=5&fire=DD3704&theme=deepBlue"
+          src="https://github-readme-streak-stats.herokuapp.com?user=shivamtiwari12032001&hide_border=true&border_radius=5&fire=DD3704&theme=deepBlue"
           alt="github statistics"
         />
       </div>
       <div className="w-full flex flex-col lg:flex-row gap-5 items-center justify-center">
         <img
           className="w-[95%] md:w-[80%] lg:w-[37.5%]"
-          src="https://github-readme-stats.vercel.app/api?username=shrikantjawla&count_private=true&show_icons=true&bg_color=1c1d1c&text_color=ffffff&title_color=ffffff&icon_color=ffffff"
+          src="https://github-readme-stats.vercel.app/api?username=shivamtiwari12032001&count_private=true&show_icons=true&bg_color=1c1d1c&text_color=ffffff&title_color=ffffff&icon_color=ffffff"
           alt="github statistics"
         />
         <img
           className="w-[95%] md:w-[80%] lg:w-[31.5%]"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=shrikantjawla&show_icons=true&theme=light&bg_color=1c1d1c&title_color=ffffff&text_color=ffffff&locale=en&layout=compact"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamtiwari12032001&show_icons=true&theme=light&bg_color=1c1d1c&title_color=ffffff&text_color=ffffff&locale=en&layout=compact"
           alt="github statistics"
         />
       </div>

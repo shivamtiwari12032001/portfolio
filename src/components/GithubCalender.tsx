@@ -57,7 +57,7 @@ const GithubCalender = () => {
         blockSize={20}
         blockMargin={5}
         fontSize={windowSize <= 350 ? 12 : 20}
-        username="shrikantjawla"
+        username="shivamtiwari12032001"
         theme={{
           level0: '#F0F0F0',
           level1: '#1bcb53',

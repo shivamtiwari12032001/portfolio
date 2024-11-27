@@ -79,21 +79,21 @@ const ContactSection = () => {
                 src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png"
                 alt="wattsapp icon"
               />
-              <a href="tel:+919045946661" className="text-white">
-                +91-9045946661
+              <a href="tel:+916201715091" className="text-white">
+                +91-6201715091
               </a>
             </div>
             <div className="w-full h-[40px] flex justify-start items-center gap-3">
               <img
                 className="h-[25px]"
                 src="https://cdn-icons-png.flaticon.com/128/732/732200.png"
-                alt="wattsapp icon"
+                alt="Whatsapp icon"
               />
               <a
-                href="mailto:shrikantjawla@gmail.com"
+                href="mailto:shivamtiwari12032001@gmail.com"
                 className="text-white text-[14px] lg:text[17px]"
               >
-                shrikantjawla@gmail.com
+                shivamtiwari12032001@gmail.com
               </a>
             </div>
           </div>

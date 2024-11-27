@@ -14,9 +14,7 @@ const Stats = () => {
         />
       </div>
       <div className="w-full flex flex-col items-center gap-[10px]">
-        {/* Github Calender */}
         <GithubCalender />
-        {/* Github Stats */}
         <GithubStats />
       </div>
     </div>
