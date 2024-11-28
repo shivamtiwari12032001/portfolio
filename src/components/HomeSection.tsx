@@ -1,13 +1,13 @@
-import axios from 'axios'
-import { motion } from 'framer-motion'
-import { fadeInTextVariant } from '../animation/animation'
+import axios from "axios";
+import { motion } from "framer-motion";
+import { fadeInTextVariant } from "../animation/animation";
 
 interface Props {}
 
 const HomeSection = (props: Props) => {
   const trackDownload = async () => {
-    await axios.post('https://puce-bored-bass.cyclic.app/track/button', {})
-  }
+    await axios.post("https://puce-bored-bass.cyclic.app/track/button", {});
+  };
   return (
     <div
       id="about__part"
@@ -25,7 +25,7 @@ const HomeSection = (props: Props) => {
       </div>
       {/* Main div consisting photo and text */}
       <div
-        style={{ transform: 'translate(-50%,-50%)' }}
+        style={{ transform: "translate(-50%,-50%)" }}
         className="w-[95%] z-[4] xl:w-[85%] space-y-[20px] lg:space-y-0 absolute top-[50%] left-[50%] h-fit lg:h-[500px] m-auto bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 border border-gray-600 rounded-2xl md:rounded-none md:rounded-br-[25%] md:rounded-tl-[25%] p-[5px] py-[35px] lg:py-[5px] flex flex-col md:flex-row justify-center items-center shadow-2xl"
       >
         {/* Text div */}
@@ -36,7 +36,7 @@ const HomeSection = (props: Props) => {
               Shivam Kumar
             </p>
             <p className="w-full px-4 text-[13px] md:text-[16px] xl:text-xl text-red-200">
-              {'> Full Stack Web Developer'}
+              {"> Full Stack Web Developer"}
             </p>
           </div>
           <p className="w-full px-4 text-[12.5px] md:text-left xl:text-[15px] text-white ">
@@ -52,8 +52,8 @@ const HomeSection = (props: Props) => {
             className="self-start w-fit md:w-[150px] border-blue-500 border text-gray-100 hover:text-white p-[10px] px-[35px] ml-4 hover:border-white"
           >
             <a
-              href="https://github.com/ShrikantJawla/Resume/raw/main/Shrikant_Jawla_Resume.pdf"
-              download="Shrikant_Jawla_Resume"
+              href="https://github.com/shivamtiwari12032001/portfolio/blob/main/Resume/shivam_latest_resume.pdf"
+              download="Shivam_Kumar_Resume"
             >
               RESUME
             </a>
@@ -68,13 +68,13 @@ const HomeSection = (props: Props) => {
         >
           <img
             className="rounded-full h-[60%] object-cover xl:h-[70%] opacity-80 border-[9px] border-blue-300"
-            src=""
+            src="/Profile_pic.jpg"
             alt="me"
           />
         </motion.div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default HomeSection
+export default HomeSection;
