@@ -3,7 +3,7 @@ import React, { FormEvent, useState } from 'react'
 import { fadeInTextVariant } from '../animation/animation'
 import Footer from './Footer'
 import { motion } from 'framer-motion'
-const nodemailer = require("nodemailer");
+// import nodemailer from 'nodemailer';
 
 const initState = {
   name: '',
@@ -13,15 +13,15 @@ const initState = {
 }
 
 
-const transporter = nodemailer.createTransport({
-  host: "smtp.ethereal.email",
-  port: 587,
-  secure: false, // true for port 465, false for other ports
-  auth: {
-    user: `${process.env.NEXT_PUBLIC_USER_EMAIL}`,
-    pass: `${process.env.NEXT_PUBLIC_USER_EMAIL}`,
-  },
-});
+// const transporter = nodemailer.createTransport({
+//   host: "smtp.ethereal.email",
+//   port: 587,
+//   secure: false, // true for port 465, false for other ports
+//   auth: {
+//     user: `${process.env.NEXT_PUBLIC_USER_EMAIL}`,
+//     pass: `${process.env.NEXT_PUBLIC_USER_EMAIL}`,
+//   },
+// });
 
 const ContactSection = () => {
   const [input, setInput] = useState(initState)
