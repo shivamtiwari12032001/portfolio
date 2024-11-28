@@ -57,7 +57,7 @@ const Navbar = ({ scrollPosition }: { scrollPosition: number }) => {
       <div className="w-[80px] h-full flex justify-center items-center">
         <img
           className="w-[50px]"
-          src="https://github.com/ShrikantJawla/Images/blob/main/logo.png?raw=true"
+          src="/Profile_pic.jpg"
           alt="logo"
         />
       </div>
@@ -77,8 +77,8 @@ const Navbar = ({ scrollPosition }: { scrollPosition: number }) => {
         ))}
         <a
           onClick={trackDownload}
-          href="https://github.com/ShrikantJawla/Resume/raw/main/Shrikant_Jawla_Resume.pdf"
-          download="Shrikant_Jawla_resume"
+          href="https://github.com/shivamtiwari12032001/portfolio/blob/main/Resume/shivam_latest_resume.pdf"
+          download="Shivam_Kumar_Resume"
           className="uppercase text-[12px] hover:text-blue-500 transition duration-200 ease-in-out hover:scale-105 hidden sm:flex border-[1px] border-sky-600 p-2 px-4 text-sky-600 cursor-pointer"
         >
           resume

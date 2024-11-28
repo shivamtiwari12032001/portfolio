@@ -51,8 +51,8 @@ const HamBurgerNav = () => {
               </a>
             ))}
             <a
-              href="https://github.com/ShrikantJawla/ShrikantJawla.github.io/raw/main/Resume/Shrikant_Jawla_resume.pdf"
-              download="Shrikant_Jawla_resume"
+              href="https://github.com/shivamtiwari12032001/portfolio/blob/main/Resume/shivam_latest_resume.pdf"
+              download="Shivam_Kumar_Resume"
               className="uppercase text-[12px] hover:text-blue-500 transition duration-200 ease-in-out hover:scale-105 sm:flex border-[1px] border-sky-600 p-2 px-4 w-fit text-sky-600 cursor-pointer"
             >
               resume
